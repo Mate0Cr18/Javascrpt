@@ -13,7 +13,6 @@ function reset() {
   counter.innerText = 0;
 }
 
-
 function changeme(){
   let color = document.getElementById('color');
   let changeme = document.getElementById('changeme');
